@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ty1337
-- 👀 I’m interested in networking and security
+- 👀 I’m interested in networking
 - 🌱 I’m currently learning and going for a Network engineering and security analyst advanced diploma at Mohawk College.
 - 📫 How to reach me: Discord- GamingTy12#0364
 
